@@ -1,0 +1,6 @@
+MOV R1, 0
+ADD R1, 1
+ADD R1, 2
+ADD R1, 3
+ADD R1, 4
+HLT

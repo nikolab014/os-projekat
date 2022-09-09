@@ -1,0 +1,6 @@
+MOV R1, 36
+MOV R2, 3
+DIV R1, R2
+MUL R1, 4
+DIV R1, 2
+HLT
